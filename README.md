@@ -9,7 +9,7 @@ Trello Webhook => [HttpServerForCallback](https://github.com/etrex/webservice-ch
 # Link Trello
 1. Find a http server to setup [HttpServerForCallback](https://github.com/etrex/webservice-chain-demo/tree/master/HttpServerForCallback), and get your api url.  
 2. Go to [trello sandbox](https://developers.trello.com/sandbox).  
-![](/master/images/1.png)
+![](/images/1.png)
 3. Click the "Execute" button to get your board id.  
 4. Select the "Create Webhook" tab.  
 5. Replace the "idModel" value with your board id.  
