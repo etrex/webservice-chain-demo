@@ -16,6 +16,8 @@ Trello Webhook => [HttpServerForCallback](https://github.com/etrex/webservice-ch
 6. Replace the "callbackURL" value with your api url.   
 7. Click the "Execute" button send a create webhook request.
 
+more infomation about validate : https://kijtra.com/article/trello-webhook-api-php/
+
 # Link Slack
 1. Go to [slack webhooks](https://api.slack.com/incoming-webhooks).  
 2. Click "incoming webhook integration" and fill the form.  
